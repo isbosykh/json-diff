@@ -1,0 +1,19 @@
+{
+  "common": {
+    "languages": {
+      "ru": "Русский",
+      "en": "Английский"
+    },
+    "nativeLanguages": {
+      "ru": "Русский",
+      "en": "English"
+    },
+    "navBar": {
+      "updated": "Обновлено {message}",
+      "balance": "Баланс",
+      "profile": "Профиль",
+      "logout": "Выход",
+      "toAdmin": "Вернуться"
+    }
+  }
+}
